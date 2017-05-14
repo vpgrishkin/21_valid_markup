@@ -1,6 +1,8 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+The site was refactored for educational purposes.
+
+[The result](https://vpgrishkin.github.io/21_valid_markup/)
 
 # Project Goals
 
